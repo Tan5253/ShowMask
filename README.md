@@ -19,7 +19,7 @@ allprojects {
 app build.gradle
 ```
 dependencies {
-    compile 'com.github.wdzawdh:ShowcaseView:v1.1'
+    compile 'com.github.Tan5253:ShowMask:v1.0'
 }
 ```
 
